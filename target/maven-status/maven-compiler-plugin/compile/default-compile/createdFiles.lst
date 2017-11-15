@@ -1,0 +1,17 @@
+com\zanin\maksim\rest_service\entity\rest\MessageMappingREST.class
+com\zanin\maksim\rest_service\entity\registrator\MessageMappingRegistrator.class
+com\zanin\maksim\rest_service\entity\registrator\UserRegistrator.class
+com\zanin\maksim\rest_service\entity\repository\UserRepository.class
+com\zanin\maksim\rest_service\entity\repository\MessageRepository.class
+com\zanin\maksim\rest_service\entity\repository\MessageMappingRepository.class
+com\zanin\maksim\rest_service\entity\entity\MessageMapping_.class
+com\zanin\maksim\rest_service\entity\entity\User_.class
+com\zanin\maksim\rest_service\entity\rest\UserREST.class
+com\zanin\maksim\rest_service\entity\entity\User.class
+com\zanin\maksim\rest_service\entity\entity\MessageMapping.class
+com\zanin\maksim\rest_service\entity\entity\Message_.class
+com\zanin\maksim\rest_service\entity\registrator\MessageRegistrator.class
+com\zanin\maksim\rest_service\entity\rest\MessageREST.class
+com\zanin\maksim\rest_service\entity\utils\Resources.class
+com\zanin\maksim\rest_service\entity\entity\Message.class
+com\zanin\maksim\rest_service\entity\rest\JaxRsActivator.class
